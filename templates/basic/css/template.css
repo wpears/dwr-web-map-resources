@@ -1,0 +1,89 @@
+html, body, #centerPane{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FFF;
+  overflow: hidden;
+  font-family: "Trebuchet MS";
+}
+
+#borderContainer {
+  width: 100%;
+  height: 100%;
+}
+
+#basemapToggle{
+  top:10px;
+  left:70px;
+  position:absolute;
+  z-index: 1;
+}
+
+.poplist{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+.poplist >li{
+  margin: 0 0 5px 0;
+}
+
+.poptitle{
+  font-weight: bold;
+}
+
+#zoomLink:hover{
+  cursor:pointer;
+  color:blue;
+  text-decoration: underline;
+}
+
+.atop{
+   position:absolute;
+   z-index:100;
+}
+
+#measureAnchor{
+  top:20px;
+  right:30px;
+  width:20px;
+  height:20px;
+  background-image: url(../images/measure.png);
+  background-position:1px;
+  background-repeat:no-repeat;
+}
+
+#measureAnchor:hover{
+  cursor:pointer;
+}
+
+#measureAnchor:active{
+  background-position:1px 3px;
+}
+
+/*remove measureTool unsightly button outlines*/
+.dijitButtonContents{
+  outline:0;
+}
+
+.activeTool{
+  box-shadow:0 0 16px 6px #99ceff !important;
+         background-color:#99ceff;
+}
+
+#measur{
+  display:none;
+  background-color:rgba(245,245,245,0.8);
+  width:214px;
+  height:120px;
+  top:66px;
+  right:8px;
+  border-radius: 6px;
+  border:1px solid;
+  box-shadow:0px 2px 2px -1px #a5b6e0;
+}

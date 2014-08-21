@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="http://js.arcgis.com/3.7/js/dojo/dijit/themes/nihilo/nihilo.css">
+    <link rel="stylesheet" href="http://js.arcgis.com/3.7/js/esri/css/esri.css">
+    <link rel="stylesheet" href="css/template.css"/>
+  </head>
+
+  <body class="nihilo">
+    <div id="borderContainer" data-dojo-type="dijit/layout/BorderContainer" >
+      <div id="centerPane" data-dojo-type="dijit/layout/ContentPane" data-dojo-props="region:'center'">
+        <div id="basemapToggle"></div>
+        <div id="infoWindow"></div>
+        <div id="measureAnchor" class="atop" title="Make map measurements."></div>
+      </div>
+    </div>
+  <script data-dojo-config="async:1" src="http://js.arcgis.com/3.7/init.js"></script>
+  <script async src="js/template.js"></script>
+  </body>
+</html>
