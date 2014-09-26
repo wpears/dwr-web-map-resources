@@ -55,6 +55,9 @@
 #### ArcGIS Server Cadre Documents
 [https://dwrgis.water.ca.gov/library/-/document\_library/view/4691500](https://dwrgis.water.ca.gov/library/-/document_library/view/4691500)
 
+#### ArcGIS Server Help
+[http://resources.arcgis.com/en/help/main/10.2/index.html#//0154000002np000000](http://resources.arcgis.com/en/help/main/10.2/index.html#//0154000002np000000)
+
 ##Code Tutorials
 ####HTML and CSS
 [http://www.codecademy.com/tracks/web](http://www.codecademy.com/tracks/web)
