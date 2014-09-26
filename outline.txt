@@ -1,5 +1,0 @@
-Getting a web map out to the public starts with publishing internal services and making an internal application to ensure it is what you want. 
-
-Your GIS files go in an app-specific folder in \\nasgisnp\entgis\cadre (this location is accessible by the GIS server) and your service gets published to http://darcgis.water.ca.gov/arcgis (you add a GIS Server connection in catalog, click publish services, and enter http://darcgis.water.ca.gov/arcgis for the server, then provide your username and password). You then get your map to a publishable state, then go File -> Share As -> Service. Publish it to your GIS connection you made, to the cadre folder. You should analyze your service, then, if there are no errors, publish it mostly with defaults (perhaps turn off KML access if you don’t want it).
-
-You then make a folder in \\mrsbmapp21161\giswebapps for your application which can be accessed at http://darcgis.water.ca.gov/app/ <folder name>

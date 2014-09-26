@@ -38,3 +38,24 @@
 * Contact DWR's Public Affairs Office, sending a link to your development app and informing them you have cadre and chain of command approval.
 
 * Contact an admin (like me) saying you've done the last three steps and want to push your app to the public.
+
+##Resources
+#### Two-pane template
+[https://github.com/wpears/twopane](https://github.com/wpears/twopane)
+
+#### Basic template
+[https://github.com/wpears/dwr-template](https://github.com/wpears/dwr-template)
+
+#### ArcGIS Server Cadre Homepage
+[https://dwrgis.water.ca.gov/arcgis\_server\_cadre](https://dwrgis.water.ca.gov/arcgis_server_cadre)
+
+#### ArcGIS Server Cadre Documents
+[https://dwrgis.water.ca.gov/library/-/document\_library/view/4691500](https://dwrgis.water.ca.gov/library/-/document_library/view/4691500)
+
+##Code Tutorials
+####HTML and CSS
+[http://www.codecademy.com/tracks/web](http://www.codecademy.com/tracks/web)
+
+####Javascript
+[http://eloquentjavascript.net/00\_intro.html](http://eloquentjavascript.net/00_intro.html)
+
