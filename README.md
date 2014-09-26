@@ -46,6 +46,9 @@
 #### Basic template
 [https://github.com/wpears/dwr-template](https://github.com/wpears/dwr-template)
 
+#### Brownbag slides and files
+[https://github.com/wpears/webmap-brownbag](https://github.com/wpears/webmap-brownbag)
+
 #### ArcGIS Server Cadre Homepage
 [https://dwrgis.water.ca.gov/arcgis\_server\_cadre](https://dwrgis.water.ca.gov/arcgis_server_cadre)
 
@@ -57,5 +60,5 @@
 [http://www.codecademy.com/tracks/web](http://www.codecademy.com/tracks/web)
 
 ####Javascript
-[http://eloquentjavascript.net/00\_intro.html](http://eloquentjavascript.net/00_intro.html)
+[http://eloquentjavascript.net/index.html](http://eloquentjavascript.net/index.html)
 
