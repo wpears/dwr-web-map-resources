@@ -49,6 +49,9 @@
 #### Brownbag slides and files
 [https://github.com/wpears/webmap-brownbag](https://github.com/wpears/webmap-brownbag)
 
+#### GIS Day talk on the Cadre
+[https://github.com/wpears/cadre-talk](https://github.com/wpears/cadre-talk)
+
 #### ArcGIS Server Cadre Homepage
 [https://dwrgis.water.ca.gov/arcgis\_server\_cadre](https://dwrgis.water.ca.gov/arcgis_server_cadre)
 
