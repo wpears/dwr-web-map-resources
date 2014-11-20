@@ -39,6 +39,14 @@
 
 * Contact an admin (like me) saying you've done the last three steps and want to push your app to the public.
 
+## ArcGIS Online? Portal?
+* These can be good options (particularly if you need something fast) but have a monetary and administrative cost
+
+* Portal's star may rise one 10.3 is released. Stay tuned.
+
+##I need an app now and have no one who can build it
+* Talk to DTS's Enterprise GIS team (Led by Leo Anguiano)
+
 ##Resources
 #### Two-pane template
 [https://github.com/wpears/twopane](https://github.com/wpears/twopane)
