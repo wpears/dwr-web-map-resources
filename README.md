@@ -42,7 +42,7 @@
 ## ArcGIS Online? Portal?
 * These can be good options (particularly if you need something fast) but have a monetary and administrative cost
 
-* Portal's star may rise one 10.3 is released. Stay tuned.
+* Portal's star may rise once 10.3 is released. Stay tuned.
 
 ##I need an app now and have no one who can build it
 * Talk to DTS's Enterprise GIS team (Led by Leo Anguiano)
@@ -56,6 +56,9 @@
 
 #### Brownbag slides and files
 [https://github.com/wpears/webmap-brownbag](https://github.com/wpears/webmap-brownbag)
+
+#### Other brownbags
+[https://dwrgis.water.ca.gov/brown-bag-sessions/-/blogs/](https://dwrgis.water.ca.gov/brown-bag-sessions/-/blogs/)
 
 #### GIS Day talk on the Cadre
 [https://github.com/wpears/cadre-talk](https://github.com/wpears/cadre-talk)
